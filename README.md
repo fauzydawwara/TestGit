@@ -1,2 +1,2 @@
 # TestGit
-only for tsting Git
+only for testing Git
