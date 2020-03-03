@@ -1,5 +1,7 @@
 cat > sample.txt
-to create a txt file[A[D[H[D[C[C[C[B[C[C[C[D[D[C[C
+to create a txt file
+to create a txt file
+to create a txt file
 
 
 
